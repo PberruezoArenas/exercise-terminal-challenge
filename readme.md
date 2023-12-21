@@ -14,5 +14,4 @@
 13. cat the-ultimate-joke.txt
 14. rm -r boringfolder/
 15. vi dragon-ball-jokes.md ~~ :q
-16. vi dragon-ball-jokes.md ~~ shift ZZ
-
+16. vi dragon-ball-jokes.md ~~ shift + ZZ
